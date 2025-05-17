@@ -45,6 +45,7 @@ function loadAlbums(screen) {
             card.removeChild(card.firstChild);
         }
     }
+    
 
     if (screen == 1) {
         selected = rnb;
