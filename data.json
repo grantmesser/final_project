@@ -1,0 +1,370 @@
+{
+    "Country" : [
+        {
+            "Album" : "Old Dominion",
+            "Artist" : "Old Dominion",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/e/ef/Old_dominion_self_titled.jpg"
+        },
+        {
+            "Album" : "Father & Sons",
+            "Artist" : "Luke Combs",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/f/f8/Luke_Combs_-_Fathers_%26_Sons.png"
+        },
+        {
+            "Album" : "Traveller",
+            "Artist" : "Chris Stapleton",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/d/d2/Traveller_%28Chris_Stapleton_album%29.jpg"
+        },
+        {
+            "Album" : "Gettin' Old",
+            "Artist" : "Luke Combs",
+            "Image" : "https://cdn-p.smehost.net/sites/7eb5d15fe7cd4761bbdd065f9a967028/wp-content/uploads/2023/01/LC_GO_10x10_RGB.jpg"
+        },
+        {
+            "Album" : "Dangerous",
+            "Artist" : "Morgan Wallen",
+            "Image" : "https://m.media-amazon.com/images/I/71szkhEjZKL.jpg"
+        },
+        {
+            "Album" : "Here's To The Good Times",
+            "Artist" : "Florida Georgia Line",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/a/a7/HerestotheGoodTimes.jpg"
+        },
+        {
+            "Album" : "The Foundation",
+            "Artist" : "Zac Brown Band",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273157d6d0762e17e7dc1ad5203"
+        },
+        {
+            "Album" : "Meat and Candy",
+            "Artist" : "Old Dominion",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/6/66/Old_Dominion_-_Meat_and_Candy.png"
+        },
+        {
+            "Album" : "California Sunrise",
+            "Artist" : "Jon Pardi",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/b/b5/California_Sunrise_album_cover.jpg"
+        },
+        {
+            "Album" : "What You See Is What You Get",
+            "Artist" : "Luke Combs",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/e/e3/Luke_Combs_-_What_You_See_Is_What_You_Get.png"
+        },
+        {
+            "Album" : "Have A Nice Day",
+            "Artist" : "Treaty Oak Revival",
+            "Image" : "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/fb/d9/f2fbd9f0-1e34-404d-8f40-ddde0038e13a/artwork.jpg/1200x630bb.jpg"
+        },
+        {
+            "Album" : "Montavello",
+            "Artist" : "Sam Hunt",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/d/d2/Montevallo_cover.png"
+        }
+    ],
+    "Rap" : [
+        {
+            "Album" : "2014 Forest Hills Drive",
+            "Artist" : "J. Cole",
+            "Image" : "https://m.media-amazon.com/images/I/71v0b7YG+zL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Luv Is Rage 2",
+            "Artist" : "Lil Uzi Vert",
+            "Image" : "https://images.genius.com/099e41c3c6e8f81359e0231aa0bf6018.1000x1000x1.png"
+        },
+        {
+            "Album" : "The Search",
+            "Artist" : "NF",
+            "Image" : "https://m.media-amazon.com/images/I/71Je9MaCiHL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Oakflesh",
+            "Artist" : "Sewerperson",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273e17948f33c55f2cf280cc4f1"
+        },
+        {
+            "Album" : "Stoney",
+            "Artist" : "Post Malone",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/7/72/Stoneyalbum.jpg"
+        },
+        {
+            "Album" : "1999",
+            "Artist" : "Joey Bada$$",
+            "Image" : "https://chscommunicator.com/wp-content/uploads/2024/06/85ca7940155e7754603eac6dc5a3fc54.1000x1000x1.png"
+        },
+        {
+            "Album" : "The Melodic Blue",
+            "Artist" : "Baby Keem",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/9/90/TheMelodicBlueCover.jpeg"
+        },
+        {
+            "Album" : "Because the Internet",
+            "Artist" : "Child Gambino",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/7/70/Childish-gambino-because-the-internet.gif"
+        },
+        {
+            "Album" : "My Beautiful Dark Twisted Fantasy",
+            "Artist" : "Kanye West",
+            "Image" : "https://m.media-amazon.com/images/I/91dHRGIV65L.jpg"
+        },
+        {
+            "Album" : "Beerbongs & Bentleys",
+            "Artist" : "Post Malone",
+            "Image" : "https://d28onjpxqm95em.cloudfront.net/eyJidWNrZXQiOiJtZXJjaGJhci1pbWFnZXMiLCJrZXkiOiJwcm9kdWN0LzQ1OC8xMDAwNi83MzUyMzQ5Nzg2MzM2L2IycnQ4cWpXY292ZXJfMzJjZWJhNjEtYWVlMi00MzI4LWExNjktZTA2ZGYxYzQ4OTM2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTQwMCwiZml0IjoiY292ZXIifX19?format=webp"
+        },
+        {
+            "Album" : "Under Pressure",
+            "Artist" : "Logic",
+            "Image" : "https://m.media-amazon.com/images/I/81ch1Foa-dL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Hoodie SZN",
+            "Artist" : "A Boogie Wit Da Hoodie",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54"
+        },
+        {
+            "Album" : "All-AMERIKKKAN BADA$$",
+            "Artist" : "Joey Bada$$",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/e/e6/AllAmerikkkanBadass.jpg"
+        },
+        {
+            "Album" : "Austin",
+            "Artist" : "Post Malone",
+            "Image" : "https://m.media-amazon.com/images/I/91rgNXHkQCL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "A Love Letter To You 4",
+            "Artist" : "Trippie Redd",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/b/b3/Trippie_Redd_-_A_Love_Letter_to_You_4.png"
+        }
+        
+    ],
+    "Folk" : [
+        {
+            "Album" : "County Line",
+            "Artist" : "Brenn!",
+            "Image" : "https://m.media-amazon.com/images/I/41bF8K2cwXL._UXNaN_FMjpg_QL85_.jpg"
+        },
+        {
+            "Album" : "By and By",
+            "Artist" : "Caamp",
+            "Image" : "https://m.media-amazon.com/images/I/913iKLsG54L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "American Heartbreak",
+            "Artist" : "Zach Bryan",
+            "Image" : "https://m.media-amazon.com/images/I/81xJ2dvw8VL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Lavender Days",
+            "Artist" : "Caamp",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273d67b81ebdeb6f84cc1f248bb"
+        },
+        {
+            "Album" : "The Secret of Us",
+            "Artist" : "Gracie Abrahams",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/1/18/Gracie_Abrams_-_The_Secret_of_Us.png"
+        },
+        {
+            "Album" : "Cape Elizabeth",
+            "Artist" : "Noah Kahan",
+            "Image" : "https://linkstorage.linkfire.com/medialinks/images/380c6942-7cb9-435a-9d92-ea8d106dbe84/artwork-440x440.jpg"
+        },
+        {
+            "Album" : "Zach Bryan",
+            "Artist" : "Zach Bryan",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/1/1e/Zach_Bryan_-_Zach_Bryan.png"
+        },
+        {
+            "Album" : "Colorado's On Fire Again",
+            "Artist" : "Richy Mitch & The Coal Miners",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273c1d53b2627f126bde692b133"
+        },
+        {
+            "Album" : "Forever",
+            "Artist" : "Noah Kahan",
+            "Image" : "https://cdn-images.dzcdn.net/images/cover/7048c7a5d1c3a0005e4833446a90c5f2/1900x1900-000000-80-0-0.jpg"
+        },
+        {
+            "Album" : "All My Homies Hate Ticketmaster",
+            "Artist" : "Zach Bryan",
+            "Image" : "https://m.media-amazon.com/images/I/51mChaKFVqL._UXNaN_FMjpg_QL85_.jpg"
+        },
+        {
+            "Album" : "Purgatory",
+            "Artist" : "Tyler Childers",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/1/14/Tyler_Childers_-_Purgatory.png"
+        },
+        {
+            "Album" : "Older (and Wiser)",
+            "Artist" : "Lizzy McAlpine",
+            "Image" : "https://www.melodicmag.com/wp-content/uploads/2024/09/olderandwiser_deluxecoverart.jpg"
+        },
+        {
+            "Album" : "The Great American Bar Scene",
+            "Artist" : "Zach Bryan",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1"
+        },
+        {
+            "Album" : "Caamp",
+            "Artist" : "Caamp",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b2738608dc683afa87c79ca4446f"
+        },
+        {
+            "Album" : "West On I-10",
+            "Artist" : "Evan Honer",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273b5b58df7ebec59a8bf09bc82"
+        },
+        {
+            "Album" : "The Lumineers",
+            "Artist" : "The Lumineers",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/b/b8/TheLumineersalbum.jpg"
+        }
+    ],
+    "Indie" : [
+        {
+            "Album" : "Stranger in the Alps",
+            "Artist" : "Phoebe Bridgers",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/f/f2/Phoebe_Bridgers_%E2%80%93_Stranger_in_the_Alps.png"
+        },
+        {
+            "Album" : "Petals to Thorns",
+            "Artist" : "D4vid",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7"
+        },
+        {
+            "Album" : "When We Were Friends",
+            "Artist" : "The Backseat Lovers",
+            "Image" : "https://f4.bcbits.com/img/a4171388314_16.jpg"
+        },
+        {
+            "Album" : "At The Beach, In Every Life",
+            "Artist" : "Gigi Perez",
+            "Image" : "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/11/b5/5411b5e4-30e7-8853-a7d7-75b3700b810c/25UMGIM53543.rgb.jpg/600x600bf-60.jpg"
+        },
+        {
+            "Album" : "This Old Dog",
+            "Artist" : "Mac Demarco",
+            "Image" : "https://m.media-amazon.com/images/I/91eMyF70YUL.jpg"
+        },
+        {
+            "Album" : "11:11",
+            "Artist" : "Pinegrove",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/c/cb/11-11_-_Pinegrove.jpg"
+        },
+        {
+            "Album" : "Mt. Joy",
+            "Artist" : "Mt. Joy",
+            "Image" : "https://i.discogs.com/bxcnIQU7fcABPwq0v6dCi9eYZwWnQiYPZHmz0kg8PuA/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEy/OTc5LTE1MjI4MTY4/MDctMTM2OS5wbmc.jpeg"
+        },
+        {
+            "Album" : "Everything So Far",
+            "Artist" : "Pinegrove",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/8/80/Everything_So_Far_-_Pinegrove.jpg"
+        },
+        {
+            "Album" : "Sunburn",
+            "Artist" : "Dominic Fike",
+            "Image" : "https://m.media-amazon.com/images/I/81e+zZGlxzL.jpg"
+        },
+        {
+            "Album" : "Bloom",
+            "Artist" : "Beach House",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/a/a2/Beach_House_-_Bloom.png"
+        }
+    ],
+    "Rock" : [
+        {
+            "Album" : "Kid A Mnesia",
+            "Artist" : "Radiohead",
+            "Image" : "https://m.media-amazon.com/images/I/61lSuPdZ0lL._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "American Beauty/American Psycho",
+            "Artist" : "Fall Out Boys",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b2739e74f9f0a2e01094e3b5f1d8"
+        },
+        {
+            "Album" : "Nevermind",
+            "Artist" : "Nirvana",
+            "Image" : "https://m.media-amazon.com/images/I/61IwAnDdh2L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Save Rock and Roll",
+            "Artist" : "Fall Out Boys",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/a/a0/Save-Rock-And-Roll.jpg"
+        },
+        {
+            "Album" : "That's The Spirit",
+            "Artist" : "Bring Me The Horizon",
+            "Image" : "https://m.media-amazon.com/images/I/516HOT7Vj3L._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "After Laughter",
+            "Artist" : "Paramore",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99"
+        },
+        {
+            "Album" : "Tickets To My Downfall",
+            "Artist" : "mgk",
+            "Image" : "https://m.media-amazon.com/images/I/712ZZxYWwML._UF1000,1000_QL80_.jpg"
+        },
+        {
+            "Album" : "Riot!",
+            "Artist" : "Paramore",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/2/28/Paramore_-_Riot%21.png"
+        },
+        {
+            "Album" : "How It Feels To Be Lost",
+            "Artist" : "Sleeping With Sirens",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/4/49/HowItFeelsToBeLost.jpg"
+        },
+        {
+            "Album" : "OK Computer",
+            "Artist" : "Radiohead",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png"
+        }
+    ],
+    "RnB" : [
+        {
+            "Album" : "The Color Violet",
+            "Artist" : "Tory Lanez",
+            "Image" : "https://m.media-amazon.com/images/I/411cGeS8boL._UXNaN_FMjpg_QL85_.jpg"
+        },{
+            "Album" : "Blonde",
+            "Artist" : "Frank Ocean",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526"
+        },
+        {
+            "Album" : "Sorry 4 What",
+            "Artist" : "Tory Lanez",
+            "Image" : "https://i.scdn.co/image/ab67616d00001e023f8455eeaf0125c7b179840c"
+        },
+        {
+            "Album" : "Chanel Orange",
+            "Artist" : "Frank Ocean",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5"
+        },
+        {
+            "Album" : "An Evening With Silk Sonic",
+            "Artist" : "Bruno Mars + Anderson Park",
+            "Image" : "https://i.scdn.co/image/ab67616d0000b273d0bbd3ea2ec554f17a6603cc"
+        },
+        {
+            "Album" : "SOS",
+            "Artist" : "SZA",
+            "Image" : "https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png"
+        },
+        {
+            "Album" : "TRAPSOUL",
+            "Artist" : "Bryson Tiller",
+            "Image" : "https://m.media-amazon.com/images/I/71EQ8ybUfzL.jpg"
+        },
+        {
+            "Album" : "American Teen",
+            "Artist" : "Khalid",
+            "Image" : "https://m.media-amazon.com/images/I/711lbJt3PpL.jpg"
+        }
+
+    ]
+}

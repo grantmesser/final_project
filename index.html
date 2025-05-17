@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Music Portfolio</title>
+  <link href="./CSS/style.css" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <div class="logo">My Music Portfolio</div>
+        <div class="nav-links">
+            <a href="#playlists">Playlists</a>
+            <a href="#albums">Albums</a>
+            <a href="#artists">Top Artists</a>
+            <a href="#songs">Favorite Songs</a>
+        </div>
+    </nav>
+
+    <section class="playlist-section" id="playlists">
+        <h2>Highlighted Playlists</h2>
+        <p>Check out some of the playlists I created.</p>
+        <div class="grid">
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2XDMjF6GbtP3v6NGAfueWG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7fCUVuahM1xNzOU2HMzpaU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5dSoLQtQvDwYJXVl6kp6yc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/50gn6yWrHAXiVyLNQEdXPT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5HUlAiq3WjBpsL3xoNaAly?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7kiKxG8YDODYgtFm2ol3t8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        </div>
+    </section>
+
+    <section class="album-section" id="albums">
+        <h2>My Favorite Albums</h2>
+        <p>Click on each genre to see some of my favorites albums.</p>
+        <div class="genres">
+            <button onclick="loadAlbums(1)">R&B</button>
+            <button onclick="loadAlbums(2)">Rap</button>
+            <button onclick="loadAlbums(3)">Folk</button>
+            <button onclick="loadAlbums(4)">Indie</button>
+            <button onclick="loadAlbums(5)">Country</button>
+            <button onclick="loadAlbums(6)">Rock</button>
+        </div>
+        <div id="col" class="gallery">
+
+        </div>
+    </section>
+
+    <section class="artist-section" id="artists">
+        <h2>Favorite Artists</h2>
+        <p>These are my top 5 favorite artists currently.</p>
+        <div class="grid">
+            <div class="card">
+                <img src="./Images/backseat-lovers.jpg" alt="Backseat Lovers">
+                <p>The Backseat Artists</p>
+            </div>
+            <div class="card">
+                <img src="./Images/caamp.jpg" alt="Caamp">
+                <p>Caamp</p>
+            </div>
+            <div class="card">
+                <img src="./Images/noah-kahan.jpg" alt="Noah Kahan">
+                <p>Noah Kahan</p>
+            </div>
+            <div class="card">
+                <img src="./Images/posty-malone.jpg" alt="Post Malone">
+                <p>Post Malone</p>
+            </div>
+            <div class="card">
+                <img src="./Images/zach-lane-bryan.jpg" alt="Zach Bryan">
+                <p>Zach Bryan</p>
+            </div>
+        </div>
+    </section>
+
+  <section class="song-section" id="songs">
+    <h2>Favorite Songs</h2>
+    <p>These are some songs I've had in the rotation recently.</p>
+    <div class="grid" id="song-list">
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3SAga35lAPYdjj3qyfEsCF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69BWKQ0qeTnPHdk4lxuLcD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0udeaEoaB60lDj0JK6EsA2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3qhlB30KknSejmIvZZLjOD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7EW7Yivb93qKAtp5qEm5of?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VySCkMP67vSTy9IrzbvHE?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FIDCNYYjNvPVimz5icugS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        <div class="card">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/01QN0DfaIrazVmGEfZ5RVX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; Grant Messer</p>
+  </footer>
+
+  <script src="./logic.js"></script>
+</body>
+</html>
